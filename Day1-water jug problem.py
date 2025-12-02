@@ -71,3 +71,4 @@ if __name__ == "__main__":
         print_table(path)
     else:
         print("No solution possible!")
+
