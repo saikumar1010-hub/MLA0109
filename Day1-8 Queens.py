@@ -52,3 +52,4 @@ if solve_8_queens(board, 0):
         print(row)
 else:
     print("No solution found.")
+
